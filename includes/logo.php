@@ -1,0 +1,1 @@
+<svg class="logo-marca" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#9D8CFF"/><path d="M8 11c3 0 3 10 6 10s3-10 6-10 3 10 6 10" fill="none" stroke="#141A3D" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
